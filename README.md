@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on coding and learning
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am quite interested in history! I just love the history of the Tang and Song Dynasty!
+- ⚡ Fun fact: I am interested in history! I really love the history of the Tang and Song Dynasty!
 
 <!---
 codersny/codersny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
